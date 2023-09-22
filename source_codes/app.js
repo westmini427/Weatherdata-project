@@ -15,10 +15,10 @@ app.use(express.static(path.join(__dirname, 'public')))
 
 // mongoose configuration
 const mongoose = require("mongoose")
-mongoose.connect("mongodb://192.168.1.78:27017/test")
+mongoose.connect("mongodb://3.39.130.88:27017/test")
 
 const mysql = require('sync-mysql');
-const env = require('dotenv').config({ path: "../../.env" });
+const env = require('dotenv').config({ path: "/Weatherdata-project/.env" });
 
 var main = require('./routes/main.js')
 app.use('/', main)

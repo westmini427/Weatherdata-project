@@ -1,4 +1,4 @@
 .env
 
-version_00/node_modules
-version_00/package*
+source_codes/node_modules
+source_codes/package*
