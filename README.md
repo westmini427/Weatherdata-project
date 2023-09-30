@@ -21,6 +21,7 @@
 # npm install -g nodemon
 # npm init -y
 # npm install express morgan path body-parser cookie-parser axios mongoose sync-mysql dotenv async
+# nodemon app.js
 ```
 
 #### ☂️ Database (mongodb, mysql)
@@ -39,12 +40,6 @@
 db version v4.4.22
 
 # mongo
-
-> use test
-switched to db test
-
-> exit
-bye
 
 # vi /etc/mongod.conf
 
@@ -89,3 +84,4 @@ bye
 <br/>
 
 ### ✔ 프로젝트 목적
+- 
