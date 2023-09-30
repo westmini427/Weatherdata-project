@@ -23,44 +23,6 @@
 # npm install express morgan path body-parser cookie-parser axios mongoose sync-mysql dotenv async
 # nodemon app.js
 ```
-
-#### ☂️ Database (mongodb, mysql)
-```
-# wget -qO - https://www.mongodb.org/static/pgp/server-4.4.asc | sudo apt-key add -
-# echo "deb [ arch=amd64,arm64 ] https://repo.mongodb.org/apt/ubuntu focal/mongodb-org/4.4 multiverse" | tee /etc/apt/sources.list.d/mongodb-org-4.4.list
-# wget http://archive.ubuntu.com/ubuntu/pool/main/o/openssl/libssl1.1_1.1.1f-1ubuntu2_amd64.deb
-# dpkg -i libssl1.1_1.1.1f-1ubuntu2_amd64.deb
-# rm -rf libssl1.1_1.1.1f-1ubuntu2_amd64.deb
-# apt -y update; apt -y upgrade
-# apt -y install mongodb-org
-# systemctl start mongod
-# systemctl status mongod
-
-# mongod --version
-db version v4.4.22
-
-# mongo
-
-# vi /etc/mongod.conf
-
- 24   bindIp: 0.0.0.0
-
-# systemctl restart mongod
-```
-```
-# apt -y update; apt -y upgrade
-# apt -y install mysql-server
-# systemctl restart mysql
-# systemctl status mysql
-# systemctl enable mysql
-# netstat -ntlp
-# vi /etc/mysql/mysql.conf.d/mysqld.cnf
-
- 31 bind-address            = 0.0.0.0
- 32 mysqlx-bind-address     = 0.0.0.0
-
-# systemctl restart mysql
-```
 <br/>
 
 ### ✔ 기술스택
