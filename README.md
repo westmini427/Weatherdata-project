@@ -70,9 +70,11 @@
 - 데이터베이스 설계와 API 명세서를 설정 후, 이를 토대로 개발을 진행했습니다.
 
 <br/>
+
 ### ✔ 초기 화면 구성
 ![Alt text](wireframe.png)
 
 <br/>
+
 ### ✔ 실행 화면
 ![Alt text](%EB%A9%94%EC%9D%B4%EC%9B%A8%EB%8D%94.gif)
