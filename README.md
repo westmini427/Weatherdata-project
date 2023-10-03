@@ -50,6 +50,11 @@
 
 <br/>
 
+### ✔ 아키텍처
+![그림1](https://github.com/westmini427/Weatherdata-project/assets/127065150/6b3d2858-e1bf-42b2-afb0-6cea4c588564)
+
+<br/>
+
 ### ✔ 프로젝트 요약
 
 - 날씨 데이터를 사용자에게 효과적으로 전달해줍니다.
