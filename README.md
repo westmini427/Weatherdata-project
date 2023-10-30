@@ -86,7 +86,7 @@
 
 <br/>
 
-### ✔ 발전방향 
+### ✔ 발전 방향 
 ![그림12](https://github.com/westmini427/Weatherdata-project/assets/127065150/58a3ff60-36da-4fc7-b4fd-4590d4f81989)
 
 - 현재까지 AWS 이외의 클라우드 서비스 경험이 부족하다는 점을 감안하여, 
